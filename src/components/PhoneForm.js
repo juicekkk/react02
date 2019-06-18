@@ -37,7 +37,7 @@ class PhoneForm extends Component {
           />
 
           <div>{this.state.name} {this.state.num}</div>
-          <button onClick={this.handleNumAdd}>추가</button>
+          <button onClick={this.handleNumAdd}>추추가</button>
         </form>
       );
     }

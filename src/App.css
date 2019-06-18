@@ -23,6 +23,8 @@
   color: yellow;
 }
 
+/* 추가된 내용 */
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
