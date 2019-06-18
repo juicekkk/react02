@@ -26,7 +26,7 @@ class PhoneForm extends Component {
       return (
         <form>
           <input
-            placeholder="이름"
+            placeholder="이름입력"
             value={this.state.name}
             onChange={this.handleChange}
           />
